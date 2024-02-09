@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NatFernoll
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning SQL and JavaScript
-- 💞️ I’m looking to collaborate on projects with y'all!
-- 📫 How to reach me ... cobie8991@gmail.com
+- 🌿 I’m looking to collaborate on projects with diverse teams!
+- 📫 How to reach me: cobie8991@gmail.com
 
 <!---
 NatFernoll/NatFernoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
